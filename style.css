@@ -1,3 +1,9 @@
+.tit{
+    background-color: rgb(46, 1, 1);
+    border: 10px solid white;
+    margin-left: 300px;
+    margin-right:300px ;
+}
 
 img{
     border: 5px solid white;
@@ -7,7 +13,7 @@ img{
 }
 
 body{
-    background-color: black;
+    background-color:black;
 }
 #two{
     font-family: "Libre Baskerville", serif;
@@ -15,9 +21,11 @@ body{
     font-style: normal;
     font-size: 80px;
     text-align: center;
-    color:rgb(227, 252, 4);
+    color:gold;
     text-transform: uppercase;
+
 }
+
 h1{
     font-family: "Libre Baskerville", serif;
     font-weight: 700;
@@ -35,4 +43,27 @@ h2{
     text-align: center;
     color: white;
     text-transform: uppercase;
+    margin-bottom: 100px;
+
+}
+
+#bb{
+    border: none;
+    height: 4px;
+    background-color:rebeccapurple;
+}
+
+.four img{
+    height: 600px;
+    width: 600px;
+}
+.four p{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+   text-align: center;
+   color: white;
+   text-transform: uppercase;
+   line-height: 1.8;
 }
